@@ -17,6 +17,6 @@
 
    a. 1:1 => Embed
    
-   b. 1:Many => Link from Many ones
+   b. 1:Many => Link from Many ones using embed
    
-   c. Many:Many => Link
+   c. Many:Many => Link using embed
