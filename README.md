@@ -12,3 +12,10 @@
    b. Structure the software in such a way
    
    c. Tolerate eg, in Social Media sitea  
+   
+4. When to link?
+   a. 1:1 => Embed
+   
+   b. 1:Many => Link from Many ones
+   
+   c. Many:Many => Link
