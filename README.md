@@ -20,3 +20,9 @@
    b. 1:Many => Link from Many ones using embed
    
    c. Many:Many => Link using embed
+
+Homework 5.3 -- 
+  ---- db.profile.find({ns:"school2.students"}).sort({millis:-1}).limit(1).pretty()   
+   
+   
+   
